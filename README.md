@@ -1,8 +1,8 @@
 # -member-list
 **파일 정보**
-1db를 생성한다.(student)
-1table를 만든다.(member)
-1php 파일을 생성한다.(dbcon.php,input.php,inputok.php,list.php,delete.php)
+1db를 생성한다.(student)<br>
+1table를 만든다.(member)<br>
+1php 파일을 생성한다.(dbcon.php,input.php,inputok.php,list.php,delete.php)<br>
 **프로그램 설명**
 
 회원의 정보를 입력하여 회원 가입을 한다.<br>
