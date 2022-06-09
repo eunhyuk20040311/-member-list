@@ -1,5 +1,5 @@
 # -member-list
-**파일 정보**
+**파일 정보**<br>
 1db를 생성한다.(student)<br>
 1table를 만든다.(member)<br>
 1php 파일을 생성한다.(dbcon.php,input.php,inputok.php,list.php,delete.php)<br>
